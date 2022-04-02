@@ -11,7 +11,7 @@
 #include <fstream>
 #include <string>
 #include <stdlib.h>
-using namespace std;
+using namespace std
 
 int CountLines(char *filename)
 {
